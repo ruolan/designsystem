@@ -1,10 +1,7 @@
-# 设计语言系统清单 DESIGN LANGUAGE SYSTEM LISTS
+# 写文章时发现的一些清单 待更新内容
 
+DLS 设计语言系统相关清单
 
-### 设计语言系统入门知识
+大公司的设计语言系统
 
-
-
-### 大公司的设计系统
-Airbnb
-Atlassion
+digital nomad 相关内容清单
